@@ -1,1 +1,3 @@
 # CPTS427CYA1
+
+During this assignment, I set out to apply for internships for this summer and this winter as well. I have been programming for quite a few years now, and I am excited to apply my technical skills in real world applications. After learning both front-end and back-end development, I believe that I tend to lean towards back-end dev. For this assignment, I searched for and applied to CS internships for the summer with a focus on back-end dev. Additionally, I tweaked my resume to make it more palatable to readers, and added projects that I completed this last semester. In this repo is a list of internships that I applied to for the summer.
